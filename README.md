@@ -11,7 +11,7 @@ Think of it more like rough notes on a cake recipe you inheritted from a grandpa
 
 - [ssbc grants](./ssbc_grants.md) - we've been following a pattern for the dfinity grant.
 - [contributor calls](./contributor_calls.md) - some ideas for where, when, and some how.
-- [readme swarm](./readme_swarm) - brand new idea
+- [readme swarm](./readme_swarm.md) - brand new idea
 - ...
 
 
